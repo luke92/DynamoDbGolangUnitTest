@@ -1,2 +1,2 @@
 # DynamoDbGolangUnitTest
-Project making unit test in DynamoDB
+Project using Unit Test in Golang with DynamoDB
